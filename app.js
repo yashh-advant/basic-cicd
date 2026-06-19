@@ -3,7 +3,7 @@ const app = express();
 
 app.use((req, res) => {
   res.send({
-    message: 'This is version 1',
+    message: 'This is version 1.1',
   });
 });
 
